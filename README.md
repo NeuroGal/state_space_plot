@@ -3,7 +3,9 @@ Matlab code for dimensionality reduction and visualization of multivariate respo
 The code was designed for neural LFP recordings from multiple electrodes, but it can be used for other data-types too. Visualization is done either as ‘snapshots’ (each time-point separately) or ‘state-space trajectories’ (all time-points together).
 
 
-This was written as part of the analysis for the following manuscript (so please cite if you use it): Vishne et al., Cell Reports 2023, 'Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception' (biorxiv DOI, to be updated when formally published): https://doi.org/10.1101/2022.08.02.502469. Example output from this repository can be seen in Figures 2A and Supplementary Figures 2A and 11A.
+This was written as part of the analysis for the following manuscript (so please cite if you use it):
+Vishne et al., Cell Reports 2023, 'Distinct Ventral Stream and Prefrontal Cortex Representational Dynamics during Sustained Conscious Visual Perception' https://doi.org/10.1016/j.celrep.2023.112752.
+Example output from this repository can be seen in Figures 2A and Supplementary Figures 2A and 11A.
 
 
 
